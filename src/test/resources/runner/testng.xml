@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.craigslist.base.TestBase"/>
+      <class name="com.craigslist.testcases.LogInandOut"/>
+      <class name="com.craigslist.testcases.KnoxvilleVerification"/>
+      </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="com.craigslist.testcases.LogInandOut"/>
+      <class name="com.craigslist.testcases.TestPrint"/>
+    </classes>
+  </test> <!-- Test -->
+    <test thread-count="5" name="Test2">
+    <classes>
+      <class name="com.craigslist.testcases.LogInandOut"/>
+      <class name="com.craigslist.testcases.PostwithImages"/>
+    </classes>
+  </test> <!-- Test -->
+    <test thread-count="5" name="Test3">
+    <classes>
+      <class name="com.craigslist.testcases.LogInandOut"/>
+      <class name="com.craigslist.testcases.Jewelry"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test4">
+    <classes>
+      <class name="com.craigslist.testcases.LogInandOut"/>
+      <class name="com.craigslist.testcases.LongIsland"/>
+    </classes>
+  </test> <!-- Test -->
+  <listeners>
+  <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  <listener class-name="com.craigslist.listeners.CustomListeners"/>
+</listeners>
+</suite> <!-- Suite -->

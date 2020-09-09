@@ -1,0 +1,79 @@
+21:38:46,089 DEBUG devpinoyLogger:65 - Chrome Launched ....
+21:38:47,166 DEBUG devpinoyLogger:74 - Navigated to: https://dallas.craigslist.org/
+21:38:54,478 DEBUG devpinoyLogger:18 - Logged In successfully
+21:38:54,616 DEBUG devpinoyLogger:66 - KNOXVILLEFORSALE Test Started $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+21:38:58,927 DEBUG devpinoyLogger:22 - Knoxville is Displayed
+21:39:04,150 DEBUG devpinoyLogger:29 - Verified all list items
+21:39:04,164 DEBUG devpinoyLogger:36 - all
+21:39:04,177 DEBUG devpinoyLogger:36 - antiques
+21:39:04,194 DEBUG devpinoyLogger:36 - appliances
+21:39:04,214 DEBUG devpinoyLogger:36 - arts+crafts
+21:39:04,235 DEBUG devpinoyLogger:36 - atvs/utvs/snow
+21:39:04,265 DEBUG devpinoyLogger:36 - auto parts
+21:39:04,288 DEBUG devpinoyLogger:36 - auto wheels & tires
+21:39:04,305 DEBUG devpinoyLogger:36 - aviation
+21:39:04,322 DEBUG devpinoyLogger:36 - baby+kids
+21:39:04,345 DEBUG devpinoyLogger:36 - barter
+21:39:04,361 DEBUG devpinoyLogger:36 - beauty+hlth
+21:39:04,378 DEBUG devpinoyLogger:36 - bike parts
+21:39:04,392 DEBUG devpinoyLogger:36 - bikes
+21:39:04,410 DEBUG devpinoyLogger:36 - boat parts
+21:39:04,424 DEBUG devpinoyLogger:36 - boats
+21:39:04,441 DEBUG devpinoyLogger:36 - books
+21:39:04,472 DEBUG devpinoyLogger:36 - business
+21:39:04,493 DEBUG devpinoyLogger:36 - cars+trucks
+21:39:04,510 DEBUG devpinoyLogger:36 - cds/dvd/vhs
+21:39:04,530 DEBUG devpinoyLogger:36 - cell phones
+21:39:04,548 DEBUG devpinoyLogger:36 - clothes+acc
+21:39:04,564 DEBUG devpinoyLogger:36 - collectibles
+21:39:04,630 DEBUG devpinoyLogger:36 - computer parts
+21:39:04,651 DEBUG devpinoyLogger:36 - computers
+21:39:07,879 DEBUG devpinoyLogger:83 - TestUtil.screenshotName=Tue_Sep_08_21_39_07_EDT_2020.jpg
+21:39:07,911 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:39:07,912 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:39:07,913 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:39:07,914 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:39:07,915 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ramis%20Mayeesha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+21:39:09,473 DEBUG devpinoyLogger:26 - Logged out successfully
+21:39:12,524 DEBUG devpinoyLogger:18 - Logged In successfully
+21:39:12,525 DEBUG devpinoyLogger:66 - TEST Test Started $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+21:39:17,917 DEBUG devpinoyLogger:83 - TestUtil.screenshotName=Tue_Sep_08_21_39_17_EDT_2020.jpg
+21:39:17,918 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:39:17,918 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:39:17,919 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:39:17,920 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:39:17,920 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ramis%20Mayeesha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+21:39:19,090 DEBUG devpinoyLogger:26 - Logged out successfully
+21:39:21,538 DEBUG devpinoyLogger:18 - Logged In successfully
+21:39:21,539 DEBUG devpinoyLogger:66 - POSTROOMMATEADWITHIMAGE Test Started $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+21:40:25,330 DEBUG devpinoyLogger:83 - TestUtil.screenshotName=Tue_Sep_08_21_40_25_EDT_2020.jpg
+21:40:25,331 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:40:25,332 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:40:25,334 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:40:25,335 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:40:25,335 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ramis%20Mayeesha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+21:40:26,674 DEBUG devpinoyLogger:26 - Logged out successfully
+21:40:29,369 DEBUG devpinoyLogger:18 - Logged In successfully
+21:40:29,371 DEBUG devpinoyLogger:66 - JEWELRYTIFFANY Test Started $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+21:40:35,115 DEBUG devpinoyLogger:23 - Jewelry is verified
+21:40:45,665 DEBUG devpinoyLogger:83 - TestUtil.screenshotName=Tue_Sep_08_21_40_45_EDT_2020.jpg
+21:40:45,667 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:40:45,668 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:40:45,669 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:40:45,669 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:40:45,669 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ramis%20Mayeesha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+21:40:46,862 DEBUG devpinoyLogger:26 - Logged out successfully
+21:40:49,453 DEBUG devpinoyLogger:18 - Logged In successfully
+21:40:49,455 DEBUG devpinoyLogger:66 - LONGISLANDBEACHHOUSE Test Started $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+21:40:54,393 DEBUG devpinoyLogger:24 - Vacation rental is verified
+21:41:04,006 DEBUG devpinoyLogger:36 - Clicked update search
+21:41:04,204 DEBUG devpinoyLogger:42 - AMAZING DUNE RD WESTHAMPTON BEACH HOME STEPS TO THE BEACH GREAT RATING
+21:41:04,231 DEBUG devpinoyLogger:42 - Luxury Spanish villa with heated pool in West Hampton Beach in prime l
+21:41:04,973 DEBUG devpinoyLogger:83 - TestUtil.screenshotName=Tue_Sep_08_21_41_04_EDT_2020.jpg
+21:41:04,975 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:41:04,975 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:41:04,976 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:41:04,976 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:41:04,977 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ramis%20Mayeesha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+21:41:06,256 DEBUG devpinoyLogger:26 - Logged out successfully
+21:41:07,336 DEBUG devpinoyLogger:167 - Test Successfully Completed

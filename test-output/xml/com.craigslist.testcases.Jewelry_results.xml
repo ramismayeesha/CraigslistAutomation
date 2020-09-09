@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test3"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.144">
+  <properties />
+  
+  
+            <testcase name="JewelryTiffany" time="22.144" classname="com.craigslist.testcases.Jewelry" />
+      
+</testsuite>

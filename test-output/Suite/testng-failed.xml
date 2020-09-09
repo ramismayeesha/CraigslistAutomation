@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.craigslist.listeners.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="Test2(failed)">
+    <classes>
+      <class name="com.craigslist.testcases.PostwithImages">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="postRoommateAdwithImage"/>
+        </methods>
+      </class> <!-- com.craigslist.testcases.PostwithImages -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test thread-count="5" name="Test3(failed)">
+    <classes>
+      <class name="com.craigslist.testcases.Jewelry">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="JewelryTiffany"/>
+        </methods>
+      </class> <!-- com.craigslist.testcases.Jewelry -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+</suite> <!-- Failed suite [Suite] -->
